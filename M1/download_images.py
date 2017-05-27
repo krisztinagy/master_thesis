@@ -4,6 +4,7 @@ from numpy import genfromtxt
 import requests
 import tensorflow as tf
 
+
 #get the bucket and blob containing the .csv data file
 client=gcs.Client()
 try:

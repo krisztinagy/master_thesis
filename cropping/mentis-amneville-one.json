@@ -1,0 +1,2351 @@
+{
+  "blocks": {},
+  "delta_score_threshold": 0.95,
+  "image_size": {
+    "height": 720,
+    "width": 1280
+  },
+  "spots": {
+    "11700": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11700",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.111765,
+        "width": 0.043769,
+        "x": 0.747033,
+        "y": 0.827059
+      },
+      "rotation": -6,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11701": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11701",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.120865,
+        "width": 0.046353,
+        "x": 0.715046,
+        "y": 0.820611
+      },
+      "rotation": -3,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11702": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11702",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.133333,
+        "width": 0.047656,
+        "x": 0.682813,
+        "y": 0.834722
+      },
+      "rotation": 0,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11703": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11703",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.132075,
+        "width": 0.047988,
+        "x": 0.635449,
+        "y": 0.819407
+      },
+      "rotation": 1,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11704": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11704",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.12341,
+        "width": 0.042553,
+        "x": 0.600304,
+        "y": 0.774809
+      },
+      "rotation": 3,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11705": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11705",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.111366,
+        "width": 0.041973,
+        "x": 0.569219,
+        "y": 0.741676
+      },
+      "rotation": 7,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11706": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11706",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.106622,
+        "width": 0.042398,
+        "x": 0.535088,
+        "y": 0.742985
+      },
+      "rotation": 8,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11707": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11707",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.106476,
+        "width": 0.037037,
+        "x": 0.501816,
+        "y": 0.734358
+      },
+      "rotation": 9,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11708": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11708",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.09623,
+        "width": 0.036723,
+        "x": 0.480226,
+        "y": 0.714286
+      },
+      "rotation": 14,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11709": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11709",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.091866,
+        "width": 0.030091,
+        "x": 0.455563,
+        "y": 0.705263
+      },
+      "rotation": 16,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11710": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11710",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.050912,
+        "width": 0.052163,
+        "x": 0.627226,
+        "y": 0.142097
+      },
+      "rotation": 87,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11711": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11711",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.049847,
+        "width": 0.044503,
+        "x": 0.575916,
+        "y": 0.148006
+      },
+      "rotation": 88,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11712": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11712",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.045245,
+        "width": 0.041885,
+        "x": 0.532723,
+        "y": 0.161043
+      },
+      "rotation": 88,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11713": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11713",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.044479,
+        "width": 0.03534,
+        "x": 0.501309,
+        "y": 0.171012
+      },
+      "rotation": 88,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11714": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11714",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.038344,
+        "width": 0.036649,
+        "x": 0.463351,
+        "y": 0.18635
+      },
+      "rotation": 88,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11715": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11715",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.058282,
+        "width": 0.04712,
+        "x": 0.621728,
+        "y": 0.18865
+      },
+      "rotation": 88,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11716": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11716",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.050912,
+        "width": 0.041985,
+        "x": 0.57888,
+        "y": 0.199848
+      },
+      "rotation": 87,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11717": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11717",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.053125,
+        "width": 0.043056,
+        "x": 0.526389,
+        "y": 0.197656
+      },
+      "rotation": 90,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11718": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11718",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.055469,
+        "width": 0.029167,
+        "x": 0.5,
+        "y": 0.204688
+      },
+      "rotation": 90,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11719": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11719",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.04644,
+        "width": 0.02965,
+        "x": 0.474394,
+        "y": 0.217492
+      },
+      "rotation": 89,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11720": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11720",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.046875,
+        "width": 0.029167,
+        "x": 0.438889,
+        "y": 0.21875
+      },
+      "rotation": 90,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11721": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11721",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.046875,
+        "width": 0.029167,
+        "x": 0.411111,
+        "y": 0.219531
+      },
+      "rotation": 90,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11722": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11722",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.060156,
+        "width": 0.055556,
+        "x": 0.583333,
+        "y": 0.305469
+      },
+      "rotation": 90,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11723": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11723",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.060156,
+        "width": 0.045833,
+        "x": 0.544444,
+        "y": 0.307813
+      },
+      "rotation": 90,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11724": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11724",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.055469,
+        "width": 0.045833,
+        "x": 0.506944,
+        "y": 0.311719
+      },
+      "rotation": 90,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11725": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11725",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.057813,
+        "width": 0.036111,
+        "x": 0.479167,
+        "y": 0.310937
+      },
+      "rotation": 90,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11726": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11726",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.049219,
+        "width": 0.036111,
+        "x": 0.45,
+        "y": 0.317187
+      },
+      "rotation": 90,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11727": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11727",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.052344,
+        "width": 0.027778,
+        "x": 0.426389,
+        "y": 0.317969
+      },
+      "rotation": 90,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11728": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11728",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.049392,
+        "width": 0.02799,
+        "x": 0.396947,
+        "y": 0.327508
+      },
+      "rotation": 93,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11729": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11729",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.044479,
+        "width": 0.024869,
+        "x": 0.379581,
+        "y": 0.329755
+      },
+      "rotation": 92,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11730": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11730",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.044479,
+        "width": 0.024869,
+        "x": 0.356021,
+        "y": 0.329755
+      },
+      "rotation": 92,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11731": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11731",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.062592,
+        "width": 0.041332,
+        "x": 0.543054,
+        "y": 0.370398
+      },
+      "rotation": 97,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11732": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11732",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.060383,
+        "width": 0.040184,
+        "x": 0.507463,
+        "y": 0.372607
+      },
+      "rotation": 97,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11733": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11733",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.057122,
+        "width": 0.034118,
+        "x": 0.48,
+        "y": 0.37092
+      },
+      "rotation": 96,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11734": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11734",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.057122,
+        "width": 0.023529,
+        "x": 0.457647,
+        "y": 0.373145
+      },
+      "rotation": 96,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11735": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11735",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.058296,
+        "width": 0.028951,
+        "x": 0.433052,
+        "y": 0.372197
+      },
+      "rotation": 95,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11736": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11736",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.058296,
+        "width": 0.028951,
+        "x": 0.413752,
+        "y": 0.375187
+      },
+      "rotation": 95,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11737": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11737",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.053812,
+        "width": 0.027744,
+        "x": 0.393245,
+        "y": 0.377429
+      },
+      "rotation": 95,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11738": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11738",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.05157,
+        "width": 0.025332,
+        "x": 0.373945,
+        "y": 0.378176
+      },
+      "rotation": 95,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11739": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11739",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.048983,
+        "width": 0.023515,
+        "x": 0.357673,
+        "y": 0.377543
+      },
+      "rotation": 94,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11740": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11740",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.060831,
+        "width": 0.043529,
+        "x": 0.542353,
+        "y": 0.501484
+      },
+      "rotation": 96,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11741": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11741",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.054896,
+        "width": 0.038824,
+        "x": 0.509412,
+        "y": 0.501484
+      },
+      "rotation": 96,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11742": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11742",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.052671,
+        "width": 0.034118,
+        "x": 0.481176,
+        "y": 0.494807
+      },
+      "rotation": 96,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11743": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11743",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.052671,
+        "width": 0.034118,
+        "x": 0.455294,
+        "y": 0.491098
+      },
+      "rotation": 96,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11744": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11744",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.052671,
+        "width": 0.030588,
+        "x": 0.432941,
+        "y": 0.486647
+      },
+      "rotation": 96,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11745": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11745",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.052671,
+        "width": 0.027059,
+        "x": 0.410588,
+        "y": 0.482196
+      },
+      "rotation": 96,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11746": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11746",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.050074,
+        "width": 0.02411,
+        "x": 0.3938,
+        "y": 0.479381
+      },
+      "rotation": 97,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11747": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11747",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.048961,
+        "width": 0.022353,
+        "x": 0.372941,
+        "y": 0.476261
+      },
+      "rotation": 96,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11748": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11748",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.045252,
+        "width": 0.022353,
+        "x": 0.357647,
+        "y": 0.476261
+      },
+      "rotation": 96,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11749": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11749",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.053495,
+        "width": 0.03299,
+        "x": 0.549485,
+        "y": 0.554208
+      },
+      "rotation": 102,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11750": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11750",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.057018,
+        "width": 0.028058,
+        "x": 0.517396,
+        "y": 0.549708
+      },
+      "rotation": 98,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11751": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11751",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.050439,
+        "width": 0.028058,
+        "x": 0.488215,
+        "y": 0.55117
+      },
+      "rotation": 98,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11752": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11752",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.051546,
+        "width": 0.02411,
+        "x": 0.462687,
+        "y": 0.546392
+      },
+      "rotation": 97,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11753": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11753",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.044591,
+        "width": 0.031425,
+        "x": 0.436588,
+        "y": 0.542398
+      },
+      "rotation": 98,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11754": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11754",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.040668,
+        "width": 0.026345,
+        "x": 0.421515,
+        "y": 0.540305
+      },
+      "rotation": 99,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11755": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11755",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.040936,
+        "width": 0.022447,
+        "x": 0.397306,
+        "y": 0.533626
+      },
+      "rotation": 98,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11756": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11756",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.041667,
+        "width": 0.022447,
+        "x": 0.382716,
+        "y": 0.527778
+      },
+      "rotation": 98,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11757": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11757",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.038012,
+        "width": 0.016835,
+        "x": 0.369248,
+        "y": 0.523392
+      },
+      "rotation": 98,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11758": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11758",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.049895,
+        "width": 0.030185,
+        "x": 0.564752,
+        "y": 0.654252
+      },
+      "rotation": 105,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11759": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11759",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.047084,
+        "width": 0.031159,
+        "x": 0.538462,
+        "y": 0.652143
+      },
+      "rotation": 105,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11760": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11760",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.044492,
+        "width": 0.025794,
+        "x": 0.512897,
+        "y": 0.646893
+      },
+      "rotation": 104,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11761": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11761",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.04329,
+        "width": 0.027927,
+        "x": 0.47261,
+        "y": 0.6443
+      },
+      "rotation": 100,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11762": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11762",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.041847,
+        "width": 0.027927,
+        "x": 0.451128,
+        "y": 0.640693
+      },
+      "rotation": 100,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11763": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11763",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.036797,
+        "width": 0.023631,
+        "x": 0.433942,
+        "y": 0.632035
+      },
+      "rotation": 100,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11764": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11764",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.037092,
+        "width": 0.02,
+        "x": 0.396471,
+        "y": 0.624629
+      },
+      "rotation": 96,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11765": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11765",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.03635,
+        "width": 0.02,
+        "x": 0.382353,
+        "y": 0.618694
+      },
+      "rotation": 96,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11766": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11766",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.037092,
+        "width": 0.02,
+        "x": 0.363529,
+        "y": 0.612018
+      },
+      "rotation": 96,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11767": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11767",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.038651,
+        "width": 0.031159,
+        "x": 0.56962,
+        "y": 0.704849
+      },
+      "rotation": 105,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11768": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11768",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.043785,
+        "width": 0.029762,
+        "x": 0.537698,
+        "y": 0.695621
+      },
+      "rotation": 104,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11769": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11769",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.04357,
+        "width": 0.027264,
+        "x": 0.52483,
+        "y": 0.686578
+      },
+      "rotation": 105,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11770": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11770",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.034605,
+        "width": 0.026786,
+        "x": 0.496032,
+        "y": 0.683616
+      },
+      "rotation": 104,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11771": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11771",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.033029,
+        "width": 0.021422,
+        "x": 0.486855,
+        "y": 0.676037
+      },
+      "rotation": 105,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11772": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11772",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.033898,
+        "width": 0.021825,
+        "x": 0.46627,
+        "y": 0.669492
+      },
+      "rotation": 104,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11773": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11773",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.033524,
+        "width": 0.021649,
+        "x": 0.436082,
+        "y": 0.664765
+      },
+      "rotation": 102,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11774": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11774",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.033716,
+        "width": 0.019979,
+        "x": 0.414301,
+        "y": 0.659971
+      },
+      "rotation": 101,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11775": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11775",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.034132,
+        "width": 0.020856,
+        "x": 0.385291,
+        "y": 0.655773
+      },
+      "rotation": 99,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11776": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11776",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.036543,
+        "width": 0.023369,
+        "x": 0.575463,
+        "y": 0.77442
+      },
+      "rotation": 105,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11777": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11777",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.033732,
+        "width": 0.023369,
+        "x": 0.555015,
+        "y": 0.768798
+      },
+      "rotation": 105,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11778": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11778",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.033029,
+        "width": 0.023369,
+        "x": 0.534567,
+        "y": 0.760365
+      },
+      "rotation": 105,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11779": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11779",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.02811,
+        "width": 0.023369,
+        "x": 0.514119,
+        "y": 0.754041
+      },
+      "rotation": 105,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11780": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11780",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.032097,
+        "width": 0.02268,
+        "x": 0.480412,
+        "y": 0.747504
+      },
+      "rotation": 102,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11781": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11781",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.032468,
+        "width": 0.024705,
+        "x": 0.445757,
+        "y": 0.740981
+      },
+      "rotation": 100,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11782": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11782",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.031025,
+        "width": 0.01826,
+        "x": 0.429646,
+        "y": 0.731602
+      },
+      "rotation": 100,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11783": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11783",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.031025,
+        "width": 0.01826,
+        "x": 0.414608,
+        "y": 0.724387
+      },
+      "rotation": 100,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11784": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11784",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.030928,
+        "width": 0.020666,
+        "x": 0.373134,
+        "y": 0.716495
+      },
+      "rotation": 97,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11785": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11785",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.02613,
+        "width": 0.020833,
+        "x": 0.571429,
+        "y": 0.813559
+      },
+      "rotation": 104,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11786": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11786",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.025424,
+        "width": 0.020833,
+        "x": 0.553571,
+        "y": 0.804379
+      },
+      "rotation": 104,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11787": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11787",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.025424,
+        "width": 0.020833,
+        "x": 0.531746,
+        "y": 0.793785
+      },
+      "rotation": 104,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11788": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11788",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.02613,
+        "width": 0.019841,
+        "x": 0.510913,
+        "y": 0.785311
+      },
+      "rotation": 104,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11789": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11789",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.026001,
+        "width": 0.019474,
+        "x": 0.504382,
+        "y": 0.773718
+      },
+      "rotation": 105,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11790": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11790",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.023893,
+        "width": 0.017527,
+        "x": 0.488802,
+        "y": 0.767393
+      },
+      "rotation": 105,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11791": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11791",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.026001,
+        "width": 0.014606,
+        "x": 0.47517,
+        "y": 0.756852
+      },
+      "rotation": 105,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11792": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11792",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.022513,
+        "width": 0.018661,
+        "x": 0.411636,
+        "y": 0.759622
+      },
+      "rotation": 99,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11793": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11793",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.022367,
+        "width": 0.019334,
+        "x": 0.404941,
+        "y": 0.748918
+      },
+      "rotation": 100,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11794": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11794",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.028826,
+        "width": 0.018309,
+        "x": 0.627725,
+        "y": 0.83116
+      },
+      "rotation": 112,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11795": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11795",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.025299,
+        "width": 0.016553,
+        "x": 0.564752,
+        "y": 0.8461
+      },
+      "rotation": 105,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11796": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11796",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.023305,
+        "width": 0.016865,
+        "x": 0.540675,
+        "y": 0.840395
+      },
+      "rotation": 104,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11797": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11797",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.023305,
+        "width": 0.016865,
+        "x": 0.522817,
+        "y": 0.833333
+      },
+      "rotation": 104,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11798": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11798",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.023305,
+        "width": 0.016865,
+        "x": 0.503968,
+        "y": 0.823446
+      },
+      "rotation": 104,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11799": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11799",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.020803,
+        "width": 0.016824,
+        "x": 0.466877,
+        "y": 0.82066
+      },
+      "rotation": 101,
+      "updates": [],
+      "viewpoint": 6
+    },
+        "11800": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11800",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.023239,
+        "width": 0.017563,
+        "x": 0.433589,
+        "y": 0.814815
+      },
+      "rotation": 99,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11801": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11801",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.023239,
+        "width": 0.015368,
+        "x": 0.421515,
+        "y": 0.805374
+      },
+      "rotation": 99,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11802": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11802",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.020334,
+        "width": 0.015368,
+        "x": 0.407245,
+        "y": 0.801743
+      },
+      "rotation": 99,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11803": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11803",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.019178,
+        "width": 0.018057,
+        "x": 0.638005,
+        "y": 0.856164
+      },
+      "rotation": 113,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11804": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11804",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.016563,
+        "width": 0.01526,
+        "x": 0.599641,
+        "y": 0.858523
+      },
+      "rotation": 110,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11805": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11805",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.015829,
+        "width": 0.015031,
+        "x": 0.587975,
+        "y": 0.849966
+      },
+      "rotation": 111,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11806": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11806",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.017206,
+        "width": 0.015915,
+        "x": 0.575597,
+        "y": 0.84446
+      },
+      "rotation": 111,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11807": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11807",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.017206,
+        "width": 0.013263,
+        "x": 0.564103,
+        "y": 0.836889
+      },
+      "rotation": 111,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11808": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11808",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.02106,
+        "width": 0.018661,
+        "x": 0.443469,
+        "y": 0.848221
+      },
+      "rotation": 99,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11809": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11809",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.019774,
+        "width": 0.016865,
+        "x": 0.482143,
+        "y": 0.831215
+      },
+      "rotation": 104,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11810": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11810",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.018651,
+        "width": 0.018927,
+        "x": 0.439537,
+        "y": 0.829986
+      },
+      "rotation": 101,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11811": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11811",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.018651,
+        "width": 0.016824,
+        "x": 0.426919,
+        "y": 0.818508
+      },
+      "rotation": 101,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11812": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11812",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.017159,
+        "width": 0.013949,
+        "x": 0.634699,
+        "y": 0.889499
+      },
+      "rotation": 112,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11813": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11813",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.017361,
+        "width": 0.014815,
+        "x": 0.591667,
+        "y": 0.894444
+      },
+      "rotation": 108,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11814": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11814",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.016609,
+        "width": 0.015483,
+        "x": 0.586521,
+        "y": 0.883737
+      },
+      "rotation": 109,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11815": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11815",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.016609,
+        "width": 0.015483,
+        "x": 0.569217,
+        "y": 0.877509
+      },
+      "rotation": 109,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11816": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11816",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.015917,
+        "width": 0.014572,
+        "x": 0.555556,
+        "y": 0.870588
+      },
+      "rotation": 109,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11817": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11817",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.014583,
+        "width": 0.011111,
+        "x": 0.536111,
+        "y": 0.868056
+      },
+      "rotation": 108,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11818": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11818",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.014583,
+        "width": 0.011111,
+        "x": 0.527778,
+        "y": 0.865278
+      },
+      "rotation": 108,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11819": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11819",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.014758,
+        "width": 0.008763,
+        "x": 0.49075,
+        "y": 0.86156
+      },
+      "rotation": 105,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11820": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11820",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.014758,
+        "width": 0.008763,
+        "x": 0.480039,
+        "y": 0.853127
+      },
+      "rotation": 105,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11821": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11821",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.014758,
+        "width": 0.008763,
+        "x": 0.471276,
+        "y": 0.848911
+      },
+      "rotation": 105,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11822": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11822",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.014696,
+        "width": 0.010526,
+        "x": 0.467943,
+        "y": 0.839048
+      },
+      "rotation": 106,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11823": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11823",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.014696,
+        "width": 0.010526,
+        "x": 0.457416,
+        "y": 0.83485
+      },
+      "rotation": 106,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11824": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11824",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.013996,
+        "width": 0.008612,
+        "x": 0.449761,
+        "y": 0.827152
+      },
+      "rotation": 106,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11825": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11825",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.055556,
+        "width": 0.024219,
+        "x": 0.691406,
+        "y": 0.326389
+      },
+      "rotation": 0,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11826": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11826",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.055556,
+        "width": 0.021094,
+        "x": 0.671094,
+        "y": 0.308333
+      },
+      "rotation": 0,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11827": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11827",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.043056,
+        "width": 0.021875,
+        "x": 0.647656,
+        "y": 0.3
+      },
+      "rotation": 0,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11828": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11828",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.038366,
+        "width": 0.019593,
+        "x": 0.614921,
+        "y": 0.303218
+      },
+      "rotation": 4,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11829": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11829",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.040712,
+        "width": 0.016717,
+        "x": 0.596505,
+        "y": 0.29771
+      },
+      "rotation": 3,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11830": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11830",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.040712,
+        "width": 0.019757,
+        "x": 0.575228,
+        "y": 0.292621
+      },
+      "rotation": 3,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11831": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11831",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.041985,
+        "width": 0.020517,
+        "x": 0.551672,
+        "y": 0.293893
+      },
+      "rotation": 3,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11832": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11832",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.039604,
+        "width": 0.018086,
+        "x": 0.53052,
+        "y": 0.295792
+      },
+      "rotation": 4,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11833": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11833",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.041985,
+        "width": 0.018237,
+        "x": 0.511398,
+        "y": 0.284987
+      },
+      "rotation": 3,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11834": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11834",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.041985,
+        "width": 0.018237,
+        "x": 0.491641,
+        "y": 0.28626
+      },
+      "rotation": 3,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11835": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11835",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.041985,
+        "width": 0.018237,
+        "x": 0.473404,
+        "y": 0.28626
+      },
+      "rotation": 3,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11836": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11836",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.035127,
+        "width": 0.025332,
+        "x": 0.313631,
+        "y": 0.532138
+      },
+      "rotation": 95,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11837": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11837",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.030185,
+        "width": 0.014055,
+        "x": 0.401968,
+        "y": 0.358325
+      },
+      "rotation": 15,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11838": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11838",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.032132,
+        "width": 0.016163,
+        "x": 0.385102,
+        "y": 0.36222
+      },
+      "rotation": 15,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11839": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11839",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.031579,
+        "width": 0.016795,
+        "x": 0.368789,
+        "y": 0.371292
+      },
+      "rotation": 16,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11840": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11840",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.032132,
+        "width": 0.014055,
+        "x": 0.355587,
+        "y": 0.368062
+      },
+      "rotation": 15,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11841": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11841",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.026823,
+        "width": 0.016393,
+        "x": 0.33265,
+        "y": 0.420788
+      },
+      "rotation": 25,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11842": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11842",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.022071,
+        "width": 0.012312,
+        "x": 0.320109,
+        "y": 0.426995
+      },
+      "rotation": 24,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11843": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11843",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.020956,
+        "width": 0.012978,
+        "x": 0.308743,
+        "y": 0.439229
+      },
+      "rotation": 25,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11844": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11844",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.024525,
+        "width": 0.013615,
+        "x": 0.294758,
+        "y": 0.466772
+      },
+      "rotation": 30,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11845": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11845",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.024176,
+        "width": 0.013122,
+        "x": 0.28384,
+        "y": 0.50696
+      },
+      "rotation": 39,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11846": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11846",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.026374,
+        "width": 0.013122,
+        "x": 0.271409,
+        "y": 0.513553
+      },
+      "rotation": 39,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11847": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11847",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.025641,
+        "width": 0.01105,
+        "x": 0.263122,
+        "y": 0.52381
+      },
+      "rotation": 39,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11848": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11848",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.023616,
+        "width": 0.008264,
+        "x": 0.256198,
+        "y": 0.524723
+      },
+      "rotation": 38,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11849": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11849",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.023616,
+        "width": 0.008264,
+        "x": 0.248623,
+        "y": 0.529151
+      },
+      "rotation": 38,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11850": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11850",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.022711,
+        "width": 0.008287,
+        "x": 0.239641,
+        "y": 0.542857
+      },
+      "rotation": 39,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11851": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11851",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.025092,
+        "width": 0.008953,
+        "x": 0.232782,
+        "y": 0.543173
+      },
+      "rotation": 38,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11852": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11852",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.023443,
+        "width": 0.009669,
+        "x": 0.224448,
+        "y": 0.556777
+      },
+      "rotation": 39,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11853": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11853",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.01978,
+        "width": 0.009669,
+        "x": 0.218923,
+        "y": 0.565568
+      },
+      "rotation": 39,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11854": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11854",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.020513,
+        "width": 0.008978,
+        "x": 0.209945,
+        "y": 0.570696
+      },
+      "rotation": 39,
+      "updates": [],
+      "viewpoint": 6
+    },
+    "11855": {
+      "active": true,
+      "camera": "mentis-amneville-one",
+      "external_id": "11855",
+      "notes": "",
+      "roi_rel": {
+        "height": 0.021245,
+        "width": 0.009669,
+        "x": 0.203039,
+        "y": 0.574359
+      },
+      "rotation": 39,
+      "updates": [],
+      "viewpoint": 6
+    }
+  },
+  "time_zone": "Europe/Paris"
+}
